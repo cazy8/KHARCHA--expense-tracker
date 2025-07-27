@@ -5,10 +5,7 @@
   </p>
   
   <p>
-    <img src="[https://img.shields.io/github/license/cazy8/KHARCHA--expense-tracker](https://img.shields.io/github/license/cazy8/KHARCHA--expense-tracker)" alt="License">
-    <img src="[https://img.shields.io/github/actions/workflow/status/cazy8/KHARCHA--expense-tracker/android.yml?branch=main](https://img.shields.io/github/actions/workflow/status/cazy8/KHARCHA--expense-tracker/android.yml?branch=main)" alt="Build Status">
-    <img src="[https://img.shields.io/github/v/release/cazy8/KHARCHA--expense-tracker](https://img.shields.io/github/v/release/cazy8/KHARCHA--expense-tracker)" alt="Release">
-    <img src="[https://img.shields.io/badge/Google_Play-Downloads-brightgreen](https://img.shields.io/badge/Google_Play-Downloads-brightgreen)" alt="Google Play Downloads">
+    
   </p>
 </div>
 
@@ -40,10 +37,7 @@ Kharcha is packed with features to make financial management intuitive and effec
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="path/to/screenshot1.png" width="200" alt="Main Dashboard">
-  <img src="path/to/screenshot2.png" width="200" alt="Add Transaction">
-  <img src="path/to/screenshot3.png" width="200" alt="Reports and Charts">
-  <img src="path/to/screenshot4.png" width="200" alt="Dark Mode">
+ >
 </p>
 
 ## 🛠️ Tech Stack & Architecture
