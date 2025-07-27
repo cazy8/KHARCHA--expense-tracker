@@ -99,7 +99,7 @@ This project is licensed under the `` License - see the(LICENSE.md) file for det
 ## 📧 Contact & Support
 
 - **Bug Reports & Feature Requests:** Please use the [GitHub Issues](https://github.com/cazy8/KHARCHA--expense-tracker/issues) tab.
-- **General Inquiries:** You can reach out to us at <asyinnovative@gmail.com>.[1]
+- **General Inquiries:** You can reach out to us at <kpx41699@gmail.com>.[1]
 
 ## 🙏 Acknowledgements
 
